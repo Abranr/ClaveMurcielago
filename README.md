@@ -17,4 +17,9 @@ https://drive.google.com/file/d/1Ui-3911yBjDkrEPKjBOyR4wFIVsqNNjF/view?usp=shari
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
 </div>
 
-###
+
+## 🤝 Contribución
+
+¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, siéntete libre de abrir un _pull request_ y contribuir con tus ideas.
+
+
