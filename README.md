@@ -7,7 +7,7 @@
 
 
 ## Video📽️
-https://drive.google.com/file/d/1Ui-3911yBjDkrEPKjBOyR4wFIVsqNNjF/view?usp=sharing
+
 
 
 ## Tecnologias Utilizadas
